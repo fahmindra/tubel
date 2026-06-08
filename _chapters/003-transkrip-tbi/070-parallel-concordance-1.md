@@ -236,9 +236,3 @@ Namun, jika ternyata materinya benar-benar sulit dan membuat *stuck*, di situlah
 Jadi, silakan istirahatkan otak kalian malam ini. Besok, coba tantang otak kalian dengan aturan 3 menit untuk mengulang materi ini. Rasakan perbedaannya.
 
 Terima kasih teman-teman, sampai jumpa di pertemuan minggu depan!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

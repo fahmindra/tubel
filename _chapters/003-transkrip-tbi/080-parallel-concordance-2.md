@@ -289,9 +289,3 @@ Materi soal nomor 1 sampai 23 ini sudah ada di website *persiapantubel.com*. Kal
 Ada sedikit intermezzo tadi tentang "JKW" (Jarak Kecepatan Waktu - eh bukan, itu materi besok sama Coach lain ya). Dan juga bahasan tentang "Astronaut" di foto profil salah satu peserta, atau mungkin yang nunjuk sungai pas banjir. Ya, hidup memang berat, kadang kita bingung lihat sosmed, bingung lihat berita pemerintah, tapi jangan sampai bingung ngerjain soal Tubel. Mending bingung punya uang daripada bingung gak punya uang.
 
 Terima kasih buat waktu kalian malam ini. Jika kalian masih di jalan, hati-hati. Izin aku stop recording. Selamat malam!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

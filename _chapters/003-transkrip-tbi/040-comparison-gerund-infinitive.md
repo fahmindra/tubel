@@ -233,9 +233,3 @@ Coba kalian tulis satu kata setiap hari. Hari ini hafal satu kata saja, besok ul
 Pilihannya ada di kalian, apakah mau jadi yang lebih dari saingan atau tidak. Kalau mau lebih, hafalkan. Luangkan waktu 5-10 menit, catat ulang, dan ulangi.
 
 Oke teman-teman, itu aja materi kita malam ini. Terima kasih buat waktu kalian. Nanti *lecture notes* dan latihan PR akan di-share lagi di grup. Terima kasih!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

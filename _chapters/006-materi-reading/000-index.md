@@ -1,4 +1,4 @@
 ---
-slug: tpa-t
+slug: reading
 layout: part
 ---

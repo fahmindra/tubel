@@ -242,9 +242,3 @@ Materi tenses ini memang agak padat karena ini adalah fondasi. Jika tenses teman
 Pastikan teman-teman bukan hanya sekadar bisa, tapi menguasai. Ulangi materi ini. Materi yang gampang bisa menjadi sulit jika dilupakan. Jika bab 1 (Tenses) sudah mantap, bab-bab selanjutnya akan lebih mudah. Dan jika materi *structure* sudah dikuasai, ditambah *reading* yang mantap, poin teman-teman pasti akan tinggi.
 
 Terima kasih buat waktunya teman-teman. Maaf jika ada *overtime*. Materi PDF dan rekaman akan di-share di grup. Tetap jaga kesehatan, khususnya teman-teman yang di Sumatera. Semoga tahun depan teman-teman bisa lulus Tubel. Terima kasih semuanya!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

@@ -114,9 +114,3 @@ Kalian bisa mencari *partner* belajar atau *support system* di grup kelas kalian
 Satu lagi, ternyata otak kita itu butuh *reward*. Setelah belajar keras, otak butuh imbalan agar tidak "lelah". Jadi, setelah kelas ini selesai, sebelum kalian lanjut mengulang materi, coba kasih *reward* dulu ke diri kalian. Bisa istirahat 10-15 menit, nonton video lucu, atau makan makanan kesukaan. Tapi ingat, *reward*-nya yang wajar, jangan sampai kebablasan nonton *series* 2 jam atau main *game* sampai pagi.
 
 Terima kasih buat waktunya malam ini. Semoga materi ini bermanfaat dan bisa membantu meluluskan kalian di ujian nanti. Selamat belajar!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

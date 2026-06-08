@@ -269,9 +269,3 @@ Soal: *"The beads used in... may be made from..."*
 *   *Either... Or*, *Neither... Nor*.
 
 Sekian materi malam ini. Khusus Modals dan Conjunction nanti ada sesi tersendiri karena itu materi yang harus diartikan. Terima kasih buat waktunya, semoga bermanfaat untuk persiapan Tubel kalian. Semangat!
-
----
-```
-This file is located at: {{ page.path }}
-```
----

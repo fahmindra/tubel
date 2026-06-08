@@ -276,9 +276,3 @@ Sebagai penutup, saya ingin menantang teman-teman. Setelah kelas ini selesai, co
 Ibaratnya, maksimalkan otak kalian. Apapun yang kalian ingat itu valid. Setelah itu, bandingkan dengan catatan atau rekaman ini. Cara ini memaksa otak bekerja ekstra dan membuat memori kalian lebih optimal, sesuai dengan prinsip *Make It Stick*. Jika cara ini berhasil membuat kalian ingat materi sampai beberapa hari ke depan, berarti ini adalah cara belajar yang paling tepat buat kalian.
 
 Terima kasih teman-teman, selamat beristirahat.
-
----
-```
-This file is located at: {{ page.path }}
-```
----

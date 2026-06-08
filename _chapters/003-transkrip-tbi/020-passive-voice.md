@@ -241,9 +241,3 @@ Analisa soal sangat baik dilakukan saat belajar seperti ini. Tapi saat ujian nan
 Sekian materi malam ini. Tetap jaga kesehatan, sampai jumpa di sesi TPA bulan Januari nanti. Semoga tahun depan teman-teman lulus menjadi mahasiswa Tubel!
 
 Terima kasih.
-
----
-```
-This file is located at: {{ page.path }}
-```
----
